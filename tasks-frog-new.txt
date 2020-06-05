@@ -1,0 +1,4 @@
+8	Application mappings
+2	Helm in Application Operator
+5	Helm with migration (init-container)
+13	Dapr.io 
